@@ -9,4 +9,4 @@ Ex. *v1.3.6*-*v1.8*-*v8.7.78*
 Credit:<br/>
 [Spotify++](https://appdb.to/app/cydia/1900000540) *ScreenShots*<br/>
 [Spotilife](https://julio.hackyouriphone.org/) *For Spotilife tweaked .deb*<br/>
-[Sposify](https://repo.dynastic.co/package/com.spos) For Sposify tweaked  .deb*<br/>
+[Sposify](https://repo.dynastic.co/package/com.spos) *For Sposify tweaked  .deb*<br/>
