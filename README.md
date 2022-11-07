@@ -5,3 +5,8 @@ I post a new release everytime their is an Spotilife Update, or there is a new m
 
 Version Format is *SpotilifeC Version*-*Julio's Tweaks Version*-*Spotify Version*<br/>
 Ex. *v1.3.6*-*v1.8*-*v8.7.78*
+
+Credit:
+[Spotify++](https://appdb.to/app/cydia/1900000540) *ScreenShots*
+[Spotilife](https://julio.hackyouriphone.org/) *For Spotilife tweaked .deb*
+[Sposify](https://repo.dynastic.co/package/com.spos) For Sposify tweaked  .deb*
