@@ -16,3 +16,4 @@ Ex. *v1.3.6*-*v1.8*-*v8.7.78*<br/>
 ## Credits:<br/>
 [julioverne-  Spotilife](https://julio.hackyouriphone.org/) *For Spotilife tweaked .deb*<br/>
 [Am1nCmd- Spotify++](https://appdb.to/app/cydia/1900000540) *For ScreenShots*<br/>
+[@RobyRew](https://github.com/RobyRew) *For helping me setup a lot of things*
