@@ -1,4 +1,14 @@
-# SpotilifeC<br/>
+# SpotilifeC
+
+<h1 align="center">
+
+![GitHub all releases](https://img.shields.io/github/downloads/SpotCompiled/SpotilifeC/total?label=Downloads&style=for-the-badge) 
+![GitHub Repo stars](https://img.shields.io/github/stars/SpotCompiled/SpotilifeC?label=Stars&style=for-the-badge) 
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/SpotCompiled/SpotilifeC?label=Release&style=for-the-badge) 
+![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/SpotCompiled/SpotilifeC?include_prereleases&label=PRE-Release&style=for-the-badge) 
+
+</h1>
+
 This is my repo for compiled Spotilife IPAs. Spotilife is a Spotify IOS app tweak that removes ads, removes limited skips, and almost every other premium feature. The only main premium feature that does not work is offline downloads, as this is done server-side.
 
 ## Adding to AltStore/SideStore<br/>
