@@ -1,5 +1,7 @@
 # SpotilifeC
 
+<h1 align="center">
+
 ![GitHub all releases](https://img.shields.io/github/downloads/SpotCompiled/SpotilifeC/total?label=Downloads&style=for-the-badge) 
 ![GitHub Repo stars](https://img.shields.io/github/stars/SpotCompiled/SpotilifeC?label=Stars&style=for-the-badge) 
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/SpotCompiled/SpotilifeC?label=Release&style=for-the-badge) 
