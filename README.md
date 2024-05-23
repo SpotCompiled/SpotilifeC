@@ -10,7 +10,7 @@
 </h1>
 
 > [!NOTE]  
-> Julioverne hasn't updated Spotilife for a long time, the newest version of Spotify, that is compatible with it is ancient. I recommend switching to [SpotveeC](https://github.com/SpotCompiled/SpotveeC), a compiled version of EeveeSpotify which is essentially an updated version of Spotilife. Or [SpotC++](https://github.com/SpotCompiled/SpotC-Plus-Plus) a compiled Spotify app that has EeveeSpotify and other QOL improvements.
+> Julioverne hasn't updated Spotilife for a long time, the latest version of Spotify, which the tweak is compatible with is ancient. I recommend switching to [SpotveeC](https://github.com/SpotCompiled/SpotveeC), a compiled version of EeveeSpotify which is essentially an updated version of Spotilife. Or [SpotC++](https://github.com/SpotCompiled/SpotC-Plus-Plus) a compiled Spotify app that has EeveeSpotify and other QOL improvements.
 
 This is my repo for compiled Spotilife IPAs. Spotilife is a Spotify IOS app tweak that removes ads, removes limited skips, and almost every other premium feature. The only main premium feature that does not work is offline downloads, as this is done server-side.
 
