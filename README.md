@@ -17,11 +17,11 @@ This is my repo for compiled Spotilife IPAs. Spotilife is a Spotify IOS app twea
 ## Adding to AltStore/SideStore<br/>
 
 ### Option One:<br/>
-You can add my repo to AltStore *Beta* or SideStore for automatic updates and conviniance, by following the steps below:<br/>
+You can add my repo to AltStore or SideStore for automatic updates and conviniance, by following the steps below:<br/>
 [Click this link](https://tinyurl.com/SpotC-Import) on your device with SideStore/AltStore and it will open SideStore/AltStore with it prompting you to add the source.
 
 ### Option Two:<br/>
-You can add my repo to AltStore *Beta* or SideStore for automatic updates and conviniance, by following the steps below:<br/>
+You can add my repo to AltStore or SideStore for automatic updates and conviniance, by following the steps below:<br/>
 1. Tap "Sources" in the top-right corner of the Browse tab.<br/>
 2. Tap the ”+” button and add my source by entering its URL "https://tiny.one/SpotC"
 3. Now any "SpotC" Apps will show up in AltStore/SideStore under the "Browse" tab where you can install and update my apps easily from within AltStore/SideStore.<br/>
