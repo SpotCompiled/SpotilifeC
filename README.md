@@ -29,17 +29,6 @@ You can add my repo to AltStore or SideStore for automatic updates and convinian
 
 </details>
 
-<details>
-<summary><h2>Adding to Scarlet/Others</h2></summary>
-
-You can add my repo to Scarlet and other sideloading apps for automatic updates and conviniance, by following the steps below:<br/>
-1. Press and hold the Install button in top right.
-2. Select "Add Repo"
-3. Enter the URL "[https://spotc-repo.yodaluca.dev/Scarlet%20Repo.json](https://spotc-repo.yodaluca.dev/Scarlet%20Repo.json)"
-4. Now any "SpotC" Apps will show up in Scarlet (or other sideloading apps) where you can install and update my apps easily from within Scarlet.<br/>
-
-</details>
-
 ## How it's Made<br/>
 I post a new release everytime their is an Spotilife Update, or there is a new major Spotify update that is compatible with the latest Spotilife. I get the vanilla Spotify IPA from IOS God's [Decrypted AppStore](https://armconverter.com/decryptedappstore/us/spotify) or from green verified links on [AppDB](https://appdb.to/app/ios/324684580), I will specify details on each realease page. Then I download the latest Spotilife .deb from Julio's repo [here](https://julio.hackyouriphone.org) using [cydownload](https://github.com/borishonman/cydownload). I then inject the .deb into the IPA using [Sidloadly](https://sideloadly.io) or [Azule](https://github.com/Al4ise/Azule), and change the IPA version to the SpotilifeC version. I do not do anything else to the IPA (Unless otherwise specified in the release notes)... However please note that theoretically, IOSGod's decrypted app store could insert malware, same with Sideloadly/Azule, cydownload and julio's tweak, these are, however, either considered trusted by the community and/or Open-Source. This is use at your own risk, and I am not responsible for *ANY* damage.
 
